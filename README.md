@@ -3,7 +3,8 @@
 ![Python](https://img.shields.io/badge/python-3.10+-blue.svg)
 ![Aiogram](https://img.shields.io/badge/aiogram-v3-green.svg)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-![views](https://visitor-badge.laobi.icu/badge?page_id=mrkorzun.aiogram-bot-skeleton&left_text=views)
+![views](https://visitor-badge.laobi.icu/badge?page_id=mrkorzun&left_text=views)
+
 
 
 🚀 **Aiogram Bot Skeleton** — это минималистичный, но расширяемый шаблон для создания Telegram-ботов на **aiogram v3**.  
